@@ -1,4 +1,5 @@
-Akbank Python Bootcamp Project
+ Global AI Hub
+ Akbank Python Bootcamp Project
 
 
 Pizza Order System
