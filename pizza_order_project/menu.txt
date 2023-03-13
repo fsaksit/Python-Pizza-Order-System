@@ -1,0 +1,17 @@
+* Please select a pizza base:
+1: Classic --->  10$
+2: Margarita --->  15$
+3: Turk Pizza --->  20$
+4: Simple Pizza --->  7$
+* Selectable Additional Materials:
+11: Olive --->  2$
+12: Mushroom --->  2$
+13: Goat Cheese --->  5$
+14: Meat --->  8$
+15: Onion --->  2$
+16:  Sweet Corn --->  2$
+* Pizza Sizes:
+S: Small --->  Standard
+M: Medium --->  5$
+L:Large --->  7$
+* Thank you!
